@@ -21,7 +21,7 @@ title: Content (misc)
 
 This 🤳 [Y2K-themed comedy sketch](https://www.instagram.com/reel/CVjV07HDQsu/?hl=en) with [Loserfruit](https://www.instagram.com/loserfruit/), was one deliverable in a bigger project in our "COVID" strategy at ReachOut. Our internal research showed a clear insight, where the Loneliest young people during COVID were the ones who enjoyed socialising online the least. 
 
-_ Note: You can see the post's performance using Instagram, above. However, if the Instagram embed isn't working you can see the full video backed up to ReachOut's YouTube channel below._
+_Note: You can see the post's performance using Instagram, above. However, if the Instagram embed isn't working you can see the full video backed up to ReachOut's YouTube channel below._
 
 <iframe title="Loserfruit's guide to friendship on the World Wide Web" src="https://www.youtube.com/embed/xUw7lJTqR4s?feature=oembed" height="150" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.33333 / 1; width: 100%; height: 100%;"></iframe>
 

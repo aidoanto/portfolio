@@ -27,24 +27,3 @@ That role was all about producing thoughtful, impactful content safely, and surv
 Even further back, I hustled for clicks and shares by making videos, articles and graphics for at Junkee, NOVA, and the Chaser.
 **Other stuff I do**
 YouTube video essays, Smash Bros Melee tournament commentary, improv comedy, learn Python for data analytics.
----
-# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
-## **What did we learn from making this all work?**
-### ==Community structure:==
-[[Respect helpers, give them tools]]
-### ==Community content strategy:==
-[[Learn from audience misconceptions]]
-### Using community data:
-[[Yep, another guy making chatbots 😎]]
-### ==Creating custom solutions:==
-[[Keep your communities together]]
-### Service design:
-[[Brands compete on user experiences]]
-### ==Proving it:==
-[[Result- chart line go up!]]
----
-### Misc.
-[[Why Discord]]
-[[Further questions for discussion]]
-[[Footnotes]]
----

@@ -51,24 +51,3 @@ What if brands were transparent about using community data? It's not about claim
   
 ![[Untitled 2 6.png]]
 The new era of LLMs have taught us that users feel savvy about information that may not be accurate. They feel like they understand the advantages and limitations.
----
-# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
-## **What did we learn from making this all work?**
-### ==Community structure:==
-[[Respect helpers, give them tools]]
-### ==Community content strategy:==
-[[Learn from audience misconceptions]]
-### Using community data:
-[[Yep, another guy making chatbots 😎]]
-### ==Creating custom solutions:==
-[[Keep your communities together]]
-### Service design:
-[[Brands compete on user experiences]]
-### ==Proving it:==
-[[Result- chart line go up!]]
----
-### Misc.
-[[Why Discord]]
-[[Footnotes]]
-[[Meet the team- one other guy]]
----

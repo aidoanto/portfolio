@@ -14,6 +14,7 @@ draft: false
 title: My Portfolio
 ---
 
+
 ![[portfolio-rode_discord_messages_over_time.png]]
 # [[community-management/index|What I Learned Building The RØDE Community]]
 
@@ -46,5 +47,5 @@ An overview of implementing AI and data analysis to enhance customer service ope
 - 💡 Product Management
   
 
-> [!important]  
+> [!CV]  
 > [[My CV]]

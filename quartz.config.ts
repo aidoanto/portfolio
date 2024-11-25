@@ -32,15 +32,15 @@ const config: QuartzConfig = {
       colors: {
         // Modern dark theme inspired by shadcn/ui
         lightMode: {
-          light: "#201b47",     // Page background (unchanged)
-          lightgray: "#2d2756",  // Borders (unchanged)
-          gray: "#443c7a",       // Graph links, heavier borders (unchanged)
-          darkgray: "#e4e4e4",   // Body text (unchanged)
-          dark: "#ffffff",       // Header text and icons (unchanged)
-          secondary: "#d4a193",  // Link color, current graph node (MODIFIED - brighter/more contrast)
-          tertiary: "#e5b5a7",   // Hover states and visited graph nodes (MODIFIED - brighter)
-          highlight: "rgba(212, 161, 147, 0.2)", // Internal link background (MODIFIED - more transparent)
-          textHighlight: "rgba(212, 161, 147, 0.3)", // Markdown highlighted text (MODIFIED - adjusted to match)
+          light: "#201b47",     // Page background
+          lightgray: "#2d2756",  // Borders
+          gray: "#443c7a",       // Graph links, heavier borders
+          darkgray: "#e4e4e4",   // Body text
+          dark: "#ffffff",       // Header text and icons
+          secondary: "#d4a190",  // Brighter version for better contrast
+          tertiary: "#e5b8aa",   // Adjusted hover state to match
+          highlight: "rgba(92, 65, 52, 0.7)", // Internal link background, highlighted text, highlighted code
+          textHighlight: "rgba(92, 65, 52, 0.85)", // Markdown highlighted text background
         },
         // Use same colors for dark mode
         darkMode: {

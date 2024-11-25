@@ -63,26 +63,6 @@ This is what our ECHØES (helpful power-users) see when in the “requests” ch
 > [!important]  
 > How does this system work?Click here![[Screenshot_2024-02-28_102356.png]]Here’s a request where the user’s question has been fully answered. MrKenisi got almost the whole way there, and I jumped in at the end to clarify further.![[Screenshot_2024-02-28_102324.png]]I type /request complete to activate the command to close the request.  
 ![[Screenshot_2024-02-28_102454.png]]This opens a dialogue box where I can select the users who have been helpful to close the request. “Bees” was the user who opened the request, so I’m going to deselect him.The request is closed, and our database has helpful and accurate information about who is helping out on our Discord server!![[Screenshot_2024-02-28_102530.png]]The user only sees the bottom message from the RØDE Bot, which explains that the request has been closed, but they can still chat and ask questions if they’d like.  
+
 ---
 So, how did it go? ==[[Result- chart line go up!]]==
----
-# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
-## **What did we learn from making this all work?**
-### ==Community structure:==
-### ==Community content strategy:==
-[[Learn from audience misconceptions]]
-### Using community data:
-[[Yep, another guy making chatbots 😎]]
-### ==Creating custom solutions:==
-[[Keep your communities together]]
-### Service design:
-[[Brands compete on user experiences]]
-### ==Proving it:==
-[[Result- chart line go up!]]
----
-### Misc.
-[[Why Discord]]
-[[Further questions for discussion]]
-[[Footnotes]]
-[[Meet the team- one other guy]]
----

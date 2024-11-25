@@ -60,24 +60,3 @@ Create a space where people connect with RØDE on a deeper level, fostering bran
 Expand our reach by engaging in a space where creators and audio enthusiasts are already spending time.
 **Elevate user experience**
 Build a community where users get answers quickly, troubleshoot collectively, and feel empowered to make the most of their gear.
----
-# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
-## **What did we learn from making this all work?**
-### ==Community structure:==
-[[Respect helpers, give them tools]]
-### ==Community content strategy:==
-[[Learn from audience misconceptions]]
-### Using community data:
-[[Yep, another guy making chatbots 😎]]
-### ==Creating custom solutions:==
-[[Keep your communities together]]
-### Service design:
-[[Brands compete on user experiences]]
-### ==Proving it:==
-[[Result- chart line go up!]]
----
-### Misc.
-[[Further questions for discussion]]
-[[Footnotes]]
-[[Meet the team- one other guy]]
----

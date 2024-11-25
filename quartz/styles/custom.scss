@@ -1,3 +1,19 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Adjust the layout for the left column and main content
+.layout {
+display: flex;
+flex-direction: row;
+}
+
+.left-column {
+    flex: 0 0 25%; // Adjust this to 30% if needed
+    max-width: 30%;
+}
+
+.main-content {
+flex: 1; // This will take the remaining space
+max-width: 75%;
+}

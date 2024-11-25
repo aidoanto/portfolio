@@ -88,7 +88,3 @@ Our server stands out as being a very unique and powerful thing on the internet.
 [[Footnotes]]
 [[Meet the team- one other guy]]
 ---
-  
-
-> [!important]  
-> Sidenote:Boring thoughts on the semantics of using the term “communities” as part of a brand-building operationI want to begin by getting something off my chest: I admit that it’s a bit odd to use the term “community” to refer to the server I manage.If you’re an active member of a community like an artistic scene, I can empathise with you saying that what you’re a part of, and a Discord server to chat about a microphone brand, are two different things.I would say that our Discord server is a place where our users can connect with RØDE and each other with one or more goals in mind, including:getting supportbuilding relationshipslearning more about creating.Is that a community? I think it will be for some, and it won’t be for others, and I wish there were a better way to refer to it. However, we had enough goals, so we thought we would just stick to calling it a community and leave any attempts to restructure the English language for further inquiry.

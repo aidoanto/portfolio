@@ -8,8 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/aidoanto",
+      "Email": "aidoanto@gmail.com",
+      "LinkedIn": "https://www.linkedin.com/in/aidan-molins/",
     },
   }),
 }
@@ -22,7 +23,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
   ],
   left: [
+    Component.DisplayPicture(),
     Component.PageTitle(),
+    Component.Search(),
     Component.Explorer({
       title: "Stuff I've done",
       folderClickBehavior: "link", // Navigate to folder's main page
@@ -33,7 +36,6 @@ export const defaultContentPageLayout: PageLayout = {
       //   return include.has(node.name.toLowerCase())
       // },
     }),
-    Component.Search(),
   ],
   right: [],
 }
@@ -42,6 +44,7 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
+    Component.DisplayPicture(),
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),

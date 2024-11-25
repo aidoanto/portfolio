@@ -49,24 +49,3 @@ The number of messages in our product help channels, over time. In July, we swit
 I genuinely believe that since starting this plan, our brand image has improved. I’m biased, but I’m also the only one who looks and each and every word, image, and video which is posted about or in response to RØDE, everyday.
 So, am I thinking of ways to test that hypothesis using more scientific methods? ==[[Yep, another guy making chatbots 😎]]==!
   
----
-# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
-## **What did we learn from making this all work?**
-### ==Community structure:==
-[[Respect helpers, give them tools]]
-### ==Community content strategy:==
-[[Learn from audience misconceptions]]
-### Using community data:
-[[Yep, another guy making chatbots 😎]]
-### ==Creating custom solutions:==
-[[Keep your communities together]]
-### Service design:
-[[Brands compete on user experiences]]
-### ==Proving it:==
----
-### Misc.
-[[Why Discord]]
-[[Further questions for discussion]]
-[[Footnotes]]
-[[Meet the team- one other guy]]
----

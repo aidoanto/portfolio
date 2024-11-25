@@ -42,24 +42,3 @@ That's where vector databases come in:
 3. The database finds the closest vectors, meaning the content most relevant to what you asked, even if the wording is totally different.
 ![[vector.jpg]]
 [Source.](https://weaviate.io/blog/what-is-a-vector-database)
----
-# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
-## **What did we learn from making this all work?**
-### ==Community structure:==
-[[Respect helpers, give them tools]]
-### ==Community content strategy:==
-[[Learn from audience misconceptions]]
-### Using community data:
-[[Yep, another guy making chatbots 😎]]
-### ==Creating custom solutions:==
-[[Keep your communities together]]
-### Service design:
-[[Brands compete on user experiences]]
-### ==Proving it:==
-[[Result- chart line go up!]]
----
-### Misc.
-[[Why Discord]]
-[[Further questions for discussion]]
-[[Meet the team- one other guy]]
----

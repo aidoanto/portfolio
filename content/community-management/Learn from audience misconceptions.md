@@ -42,24 +42,3 @@ Brands need to treat misinformation or bad advice in their communities the same 
 Give your most dedicated community members the tools to give accurate and helpful answers with confidence.
 **Course correct with clarity**
 When bad info does pop up, you can step in with official, user-friendly guidance that sets the record straight.
----
-# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
-## **What did we learn from making this all work?**
-### ==Community structure:==
-[[Respect helpers, give them tools]]
-### ==Community content strategy:==
-### Using community data:
-[[Yep, another guy making chatbots 😎]]
-### ==Creating custom solutions:==
-[[Keep your communities together]]
-### Service design:
-[[Brands compete on user experiences]]
-### ==Proving it:==
-[[Result- chart line go up!]]
----
-### Misc.
-[[Why Discord]]
-[[Further questions for discussion]]
-[[Footnotes]]
-[[Meet the team- one other guy]]
----

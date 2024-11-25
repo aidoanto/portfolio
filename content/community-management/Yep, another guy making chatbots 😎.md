@@ -55,24 +55,3 @@ It wouldn’t be difficult to turn this to a tool that anyone at RØDE could use
   
 ![[vector_space.png]]
 Source: A 3D diagram visualising the statistical analysis of text data in _vector space_. Certain clusters have been identified, as well as the closeness of clusters to one another.
----
-# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
-## **What did we learn from making this all work?**
-### ==Community structure:==
-[[Respect helpers, give them tools]]
-### ==Community content strategy:==
-[[Learn from audience misconceptions]]
-### Using community data:
-### ==Creating custom solutions:==
-[[Keep your communities together]]
-### Service design:
-[[Brands compete on user experiences]]
-### ==Proving it:==
-[[Result- chart line go up!]]
----
-### Misc.
-[[Why Discord]]
-[[Further questions for discussion]]
-[[Footnotes]]
-[[Meet the team- one other guy]]
----

@@ -30,16 +30,16 @@
   --callout-icon-fold: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpolyline points="6 9 12 15 18 9"%3E%3C/polyline%3E%3C/svg%3E');
 
   &[data-callout] {
-    --color: #448aff;
-    --border: #448aff44;
-    --bg: #448aff10;
-    --callout-icon: var(--callout-icon-note);
+    --color: #d4a190;
+    --border: rgba(57, 27, 12, 0.7);
+    --bg: rgba(56, 36, 26, 0.7);
+    --callout-icon: var(--callout-icon-example);
   }
 
   &[data-callout="abstract"] {
-    --color: #00b0ff;
-    --border: #00b0ff44;
-    --bg: #00b0ff10;
+    --color: #ffb728;
+    --border: #ffaa00;
+    --bg: #ffe8b9;
     --callout-icon: var(--callout-icon-abstract);
   }
 
@@ -101,6 +101,13 @@
   }
 
   &[data-callout="example"] {
+    --color: #7a43b5;
+    --border: #7a43b544;
+    --bg: #7a43b510;
+    --callout-icon: var(--callout-icon-example);
+  }
+
+  &[data-callout="My CV"] {
     --color: #7a43b5;
     --border: #7a43b544;
     --bg: #7a43b510;

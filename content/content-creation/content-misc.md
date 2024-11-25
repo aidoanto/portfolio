@@ -10,7 +10,7 @@ by:
 tags: 
 url: 
 draft: false
-title: Content (misc)
+title: 📼 Content (misc)
 ---
 
 ## 🧑‍🎨 Best graphics/editing:

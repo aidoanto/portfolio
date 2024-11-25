@@ -38,7 +38,7 @@ In my job interview with RØDE’s marketing team, I was told the department fac
 Mostly, marketing departments that try "community building" fail, because a community can’t be bought, or bossed around. Communities aren’t magically what brands say they are.
 ---
   
-When I joined RØDE, ==[[why discord]]== for marketing-related activities, like sweet livestreams, gaming tournaments, and community hangouts.
+When I joined RØDE, ==[[why-discord]]== for marketing-related activities, like sweet livestreams, gaming tournaments, and community hangouts.
 The idea was, it would be separate from our product support experience.
 No matter how many reminders the previous team gave our users about this, we received dozens of service enquiries anyway. How could we enhance brand messaging, if _their_ only message was:
 
@@ -53,17 +53,17 @@ Of course, as any designer reading this knows, the opposite was happening. _They
   
 ## Communities want help, not hype?
 Their behavior made sense! It’s often faster to ask enthusiasts on Discord product questions than it is to wait for a support team to return your email. The community’s collective knowledge reaches a lot further than the information in our user guides, too.
-I realised that I could achieve ==[[why discord]]==, if only I could just get them the help they needed.
+I realised that I could achieve ==[[why-discord]]==, if only I could just get them the help they needed.
 Put bluntly, the community was asking us:
 
 > _If you aren’t going to do the bare minimum by helping us fix the issues with your products, why would we hang out on your livestreams or participate in your giveaways?_
-Most of the time as marketers, we create marketing goals to acquire users for a service. Instead, I realised I needed to provide a service to achieve ==[[why discord]]==!
+Most of the time as marketers, we create marketing goals to acquire users for a service. Instead, I realised I needed to provide a service to achieve ==[[why-discord]]==!
   
 ## Our pivot
 We had to ditch the idea of the community being just for _our_ goals. Instead, we focused on what _they_ wanted: a natural way to get support, connect with us, help each other, and build relationships.
-We believed if we provided our community with the ==[[respect helpers, give them tools]]==, ==[[brands compete on user experiences]]==, ==[[respect helpers, give them tools]]==, and leadership, they would have a positive experience, find the answers they needed, and stick around for our giveaways and livestreams as well.
+We believed if we provided our community with the ==[[respect-helpers-give-them-tools]]==, ==[[brands-compete-on-user-experiences]]==, ==[[respect-helpers-give-them-tools]]==, and leadership, they would have a positive experience, find the answers they needed, and stick around for our giveaways and livestreams as well.
   
-### ==[[result- chart line go up]]==[[result- chart line go up]]
+### ==[[result-chart-line-go-up]]==[[result-chart-line-go-up]]
 Our server stands out as being a very unique and powerful thing on the internet. [Check it out!](https://discord.gg/audio-video-pros-by-rode-1001456982777155634)
   
 ---
@@ -71,11 +71,11 @@ Our server stands out as being a very unique and powerful thing on the internet.
 
 ### Community structure:
 
-[[Respect helpers, give them tools|💜 Community Strategy (Respect helpers, give them tools)]]
+[[respect-helpers-give-them-tools|💜 Community Strategy (Respect helpers, give them tools)]]
 
 ### Community content strategy:
 
-[[Learn from audience misconceptions|🎓 Community Content Strategy (Learn from audience misconceptions)]]
+[[learn-from-audience-misconceptions|🎓 Community Content Strategy (Learn from audience misconceptions)]]
 
 ### Using community data:
 
@@ -83,21 +83,21 @@ Our server stands out as being a very unique and powerful thing on the internet.
 
 ### Creating custom solutions:
 
-[[Keep your communities together|🗺️ Creating Custom Solutions (Creating a meaningful UX)]]
+[[keep-your-communities-together|🗺️ Creating Custom Solutions (Creating a meaningful UX)]]
 
 ### Service design:
 
-[[Brands compete on user experiences|🪄 Service Design (Brands compete on user experiences)]]
+[[brands-compete-on-user-experiences|🪄 Service Design (Brands compete on user experiences)]]
 
 ### Proving it:
 
-[[result- chart line go up|📈 Proving It (Result- chart line go up!)]]
+[[result-chart-line-go-up|📈 Proving It (Result- chart line go up!)]]
 
 ---
 
 ### Misc.
 
-## [[why discord|🌐 Why Discord?]]  
-[[Further questions for discussion|❔ Further questions for discussion]]  
+## [[why-discord|🌐 Why Discord?]]  
+[[further-questions-for-discussion|❔ Further questions for discussion]]  
 [[Footnotes|📜 Footnotes]]  
 [[Meet the team- one other guy|👋 Meet the team- one other guy]]

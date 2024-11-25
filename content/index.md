@@ -48,4 +48,4 @@ An overview of implementing AI and data analysis to enhance customer service ope
   
 
 > [!CV]  
-> [[My CV]]
+> [[my-cv]]

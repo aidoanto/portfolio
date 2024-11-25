@@ -32,50 +32,33 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open",
       useSavedState: false,
       sortFn: (a, b) => {
-        const orderMap: Record<string, number> = {
-          "index.md": 1,
-          "respect helpers, give them tools.md": 2,
-          "keep your communities together.md": 3,
-          "learn from audience misconceptions.md": 4,
-          "brands compete on user experiences.md": 5,
-          "yep, another guy making chatbots.md": 6,
-          "result- chart line go up.md": 7,
-          "further questions for discussion.md": 8,
-          "why discord.md": 9,
-          "footnotes.md": 10,
-          "meet the team.md": 11,
+        const nameOrderMap: Record<string, number> = {
+          "index.md": 100,
+          "community-management": 200,
+          "community-management/index.md": 201,
+          "community-management/respect-helpers-give-them-tools": 202,
+          "community-management/learn-from-audience-misconceptions": 203,
+          "community-management/keep-your-communities-together": 204,
+          "community-management/brands-compete-on-user-experiences": 205,
+          "community-management/another-guy-making-chatbots": 206,
+          "community-management/result-chart-line-go-up": 207,
+          "community-management/why-discord": 208,
+          "community-management/further-questions-for-discussion": 209,
+          "community-management/footnotes": 210,
+          "community-management/meet-the-team": 211,
+          "content-creation": 300,
+          "content-misc": 301,
+          "content-creation/index.md": 302,
+          "data-analysis": 400,
+          "data-analysis/index.md": 401,
+          "my-cv": 500,
         };
-    
-        const slugA = a.file?.slug || a.name;
-        const slugB = b.file?.slug || b.name;
-    
-        const orderA = orderMap[slugA] || 0;
-        const orderB = orderMap[slugB] || 0;
-    
+
+        let orderA = nameOrderMap[a.file?.slug || a.name] ?? 999999;
+        let orderB = nameOrderMap[b.file?.slug || b.name] ?? 999999;
+
         return orderA - orderB;
       },
-      mapFn: (node) => {
-        const displayNameMap: Record<string, string> = {
-          "index.md": "🏠 What I Learned Building the RØDE Community",
-          "respect helpers, give them tools.md": "💜 Community Strategy (Respect helpers, give them tools)",
-          "keep your communities together.md": "🗺️ Creating a Meaningful Community UX (with Discord)",
-          "learn from audience misconceptions.md": "🎓 Community Content Strategy (Learn from audience misconceptions)",
-          "brands compete on user experiences.md": "🪄 Service Design (Brands compete on user experiences)",
-          "yep, another guy making chatbots 😎.md": "😎 Using Community Knowledge (Yep, another guy making chatbots)",
-          "result- chart line go up!.md": "📈 Proving It (Result- chart line go up!)",
-          "further questions for discussion.md": "❔ Further questions for discussion",
-          "why discord.md": "🌐 Why Discord?",
-          "footnotes.md": "📜 Footnotes",
-          "meet the team.md": "👋 Meet the team- one other guy",
-        };
-    
-        if (node.file) {
-          const slug = node.file.slug;
-          node.displayName = displayNameMap[slug] || node.displayName;
-        }
-      },
-      // Make sure map runs before sort
-      order: ["filter", "map", "sort"]
     })
   ],
   right: [],
@@ -90,57 +73,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Explorer({
-      title: "Stuff I've done",
-      folderClickBehavior: "link",
-      folderDefaultState: "open",
-      useSavedState: false,
-      filterFn: (node) => true,
-      // Custom map function to duplicate index pages
-      sortFn: (a, b) => {
-        const orderMap: Record<string, number> = {
-          "index.md": 1,
-          "respect helpers, give them tools.md": 2,
-          "keep your communities together.md": 3,
-          "learn from audience misconceptions.md": 4,
-          "brands compete on user experiences.md": 5,
-          "yep, another guy making chatbots 😎.md": 6,
-          "result- chart line go up!.md": 7,
-          "further questions for discussion.md": 8,
-          "why discord.md": 9,
-          "footnotes.md": 10,
-          "meet the team.md": 11,
-        };
-    
-        const slugA = a.file?.slug || a.name;
-        const slugB = b.file?.slug || b.name;
-    
-        const orderA = orderMap[slugA] || 0;
-        const orderB = orderMap[slugB] || 0;
-    
-        return orderA - orderB;
-      },
-      mapFn: (node) => {
-        const displayNameMap: Record<string, string> = {
-          "index.md": "🏠 What I Learned Building the RØDE Community",
-          "respect helpers, give them tools.md": "💜 Community Strategy (Respect helpers, give them tools)",
-          "keep your communities together.md": "🗺️ Creating a Meaningful Community UX (with Discord)",
-          "learn from audience misconceptions.md": "🎓 Community Content Strategy (Learn from audience misconceptions)",
-          "brands compete on user experiences.md": "🪄 Service Design (Brands compete on user experiences)",
-          "yep, another guy making chatbots 😎.md": "😎 Using Community Knowledge (Yep, another guy making chatbots)",
-          "result- chart line go up!.md": "📈 Proving It (Result- chart line go up!)",
-          "further questions for discussion.md": "❔ Further questions for discussion",
-          "why discord.md": "🌐 Why Discord?",
-          "footnotes.md": "📜 Footnotes",
-          "meet the team.md": "👋 Meet the team- one other guy",
-        };
-    
-        if (node.file) {
-          const slug = node.file.slug;
-          node.displayName = displayNameMap[slug] || node.displayName;
-        }
-      },
-      // Make sure map runs before sort
-      order: ["filter", "map", "sort"]
     })
   ],
   right: [],

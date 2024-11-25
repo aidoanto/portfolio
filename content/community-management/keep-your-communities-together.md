@@ -36,20 +36,20 @@ The affiliate community is located within the general server, strengthening both
 # [[areas/job-stuff/portfolio/community-management/index]] Table of contents
 ## **What did we learn from making this all work?**
 ### ==Community structure:==
-[[respect helpers, give them tools]]
+[[respect-helpers-give-them-tools]]
 ### ==Community content strategy:==
-[[learn from audience misconceptions]]
+[[learn-from-audience-misconceptions]]
 ### Using community data:
-[[another guy making chatbots]]
+[[another-guy-making-chatbots]]
 ### ==Creating custom solutions:==
 ### Service design:
-[[brands compete on user experiences]]
+[[brands-compete-on-user-experiences]]
 ### ==Proving it:==
-[[result- chart line go up]]
+[[result-chart-line-go-up]]
 ---
 ### Misc.
-[[why discord]]
-[[further questions for discussion]]
+[[why-discord]]
+[[further-questions-for-discussion]]
 [[footnotes]]
-[[meet the team]]
+[[meet-the-team]]
 ---

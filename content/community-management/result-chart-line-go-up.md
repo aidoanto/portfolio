@@ -28,13 +28,13 @@ In addition to membership growing, engagement has been growing alongside it.
 ## Improvements to our users’ help seeking experience
 When I arrived at RØDE one year ago, my goal was to massively improve our users’ experience attempting to get help on our platform.
 To do this, we created:
-- ==[[respect helpers, give them tools]]==
-- ==[[respect helpers, give them tools]]==
-- ==[[respect helpers, give them tools]]==
-- ==[[respect helpers, give them tools]]==
-- ==[[respect helpers, give them tools]]==
-- ==[[brands compete on user experiences]]==
-- ==[[respect helpers, give them tools]]==
+- ==[[respect-helpers-give-them-tools]]==
+- ==[[respect-helpers-give-them-tools]]==
+- ==[[respect-helpers-give-them-tools]]==
+- ==[[respect-helpers-give-them-tools]]==
+- ==[[respect-helpers-give-them-tools]]==
+- ==[[brands-compete-on-user-experiences]]==
+- ==[[respect-helpers-give-them-tools]]==
 ---
   
 **Early results speak for themselves**
@@ -47,5 +47,5 @@ The number of messages in our product help channels, over time. In July, we swit
   
 ### 🚨 **Subjective opinion alert (no data zone)** 🚨
 I genuinely believe that since starting this plan, our brand image has improved. I’m biased, but I’m also the only one who looks and each and every word, image, and video which is posted about or in response to RØDE, everyday.
-So, am I thinking of ways to test that hypothesis using more scientific methods? ==[[another guy making chatbots]]==!
+So, am I thinking of ways to test that hypothesis using more scientific methods? ==[[another-guy-making-chatbots]]==!
   

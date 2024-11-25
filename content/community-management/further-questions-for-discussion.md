@@ -39,7 +39,7 @@ Community builders have a unique advantage. We can:
 ![[Untitled 1 9.png]]
 Our \#feature-requests channel provides helpful requests to our product team, along with data about how popular those suggestions actually are.
 This approach ensures product decisions are grounded in real user pain points, not guesswork. This builds trust and fosters a sense that the brand genuinely listens.
-You can read about how the ==[[footnotes]]== I built ==[[another guy making chatbots]]==.
+You can read about how the ==[[footnotes]]== I built ==[[another-guy-making-chatbots]]==.
 ---
   
 ## ==Community search vs brand search==

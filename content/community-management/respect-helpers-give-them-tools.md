@@ -65,4 +65,4 @@ This is what our ECHØES (helpful power-users) see when in the “requests” ch
 ![[Screenshot_2024-02-28_102454.png]]This opens a dialogue box where I can select the users who have been helpful to close the request. “Bees” was the user who opened the request, so I’m going to deselect him.The request is closed, and our database has helpful and accurate information about who is helping out on our Discord server!![[Screenshot_2024-02-28_102530.png]]The user only sees the bottom message from the RØDE Bot, which explains that the request has been closed, but they can still chat and ask questions if they’d like.  
 
 ---
-So, how did it go? ==[[result- chart line go up]]==
+So, how did it go? ==[[result-chart-line-go-up]]==

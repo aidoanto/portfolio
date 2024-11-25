@@ -10,7 +10,7 @@ url: https://www.aidanmolins.com/My-CV-11a53792ce348002af38c34c9afc8a61
 for:
   - portfolio
 draft: false
-title: My CV
+title: 📄 My CV
 ---
 
 ## **Summary**

@@ -10,7 +10,7 @@ url: https://www.aidanmolins.com/Learn-from-audience-misconceptions-ad5d0f839e25
 for:
   - portfolio
 draft: false
-title: Learn from audience misconceptions
+title: 🎓 Community Content Strategy (Learn from audience misconceptions)
 ---
 
 ---

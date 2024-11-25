@@ -10,7 +10,7 @@ url: https://www.aidanmolins.com/Keep-your-communities-together-63cb3b093d8e4e97
 for:
   - portfolio
 draft: false
-title: Keep your communities together
+title: 🗺️ Creating a Meaningful Community UX (with Discord)
 ---
 Need proof that custom Discord tools are worth it? We were able to bolster our affiliate program by developing a custom add-on:
 
@@ -36,20 +36,20 @@ The affiliate community is located within the general server, strengthening both
 # [[areas/job-stuff/portfolio/community-management/index]] Table of contents
 ## **What did we learn from making this all work?**
 ### ==Community structure:==
-[[Respect helpers, give them tools]]
+[[respect helpers, give them tools]]
 ### ==Community content strategy:==
-[[Learn from audience misconceptions]]
+[[learn from audience misconceptions]]
 ### Using community data:
-[[Yep, another guy making chatbots 😎]]
+[[another guy making chatbots]]
 ### ==Creating custom solutions:==
 ### Service design:
-[[Brands compete on user experiences]]
+[[brands compete on user experiences]]
 ### ==Proving it:==
-[[Result- chart line go up!]]
+[[result- chart line go up]]
 ---
 ### Misc.
-[[Why Discord]]
-[[Further questions for discussion]]
-[[Footnotes]]
-[[Meet the team- one other guy]]
+[[why discord]]
+[[further questions for discussion]]
+[[footnotes]]
+[[meet the team]]
 ---

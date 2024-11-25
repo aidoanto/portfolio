@@ -5,7 +5,7 @@ export default (() => {
     return (
       <div style={{ textAlign: "center", margin: "20px 0" }}>
         <img 
-          src="/assets/dp-circle.png" 
+          src="/assets/dp7.png" 
           alt="Display Picture" 
           style={{ 
             borderRadius: "50%", 

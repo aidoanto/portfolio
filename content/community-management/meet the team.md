@@ -10,7 +10,7 @@ url: https://www.aidanmolins.com/Meet-the-team-one-other-guy-df2b4587ffe143088bc
 for:
   - portfolio
 draft: false
-title: Meet the team- one other guy
+title: 👋 Meet the team- one other guy
 ---
 As we crafted our plan, we knew that there were a few limitations of the Discord platform which needed to be circumvented.
 That required someone truly unique – a backend Javascript/Discord.js developer, an experienced community leader, able to approach messy problems with a fresh POV, who lived somewhere in the western hemisphere, so they could potentially handle emergencies if I was asleep!

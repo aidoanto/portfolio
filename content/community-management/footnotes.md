@@ -10,7 +10,7 @@ url: https://www.aidanmolins.com/Footnotes-5ca0bdd06aeb44068fabe142f6d4198b
 for:
   - portfolio
 draft: false
-title: Footnotes
+title: 📜 Footnotes
 ---
 ## ==What’s RAG?==
 RAG has become quite common in recent months as a way to use Large Language Models (LLMs) to provide information and answers without hallucination. Here’s a simplified explanation of how it works:
@@ -18,11 +18,11 @@ RAG has become quite common in recent months as a way to use Large Language Mode
     
     > _“Can I use USB-NT plus with my apple phone?”_
     
-2. A retrieval system interprets the deeper meaning of this query, and matches it to the meanings of information stored in a ==[[Footnotes]]==. The retrieval system finds the most relevant content to match this query.
+2. A retrieval system interprets the deeper meaning of this query, and matches it to the meanings of information stored in a ==[[footnotes]]==. The retrieval system finds the most relevant content to match this query.
     
     > “_**Snippet from NT-USB User guide**__: If you are using an iPhone with a Lightning port, you will need to use a Lightning Accessory Cable like the SC19 to connect to the NT-USB+.”_
     
-    - Note that the key phrases in that snippet don’t actually match the ones in the query! The matches from vector databases are based on semantic meaning. ==[[Footnotes]]==.
+    - Note that the key phrases in that snippet don’t actually match the ones in the query! The matches from vector databases are based on semantic meaning. ==[[footnotes]]==.
 3. Then, the system just queries an LLM, the same way that you might ask ChatGPT something. The only difference is that it also includes the context (e.g. that snippet from the user guide) in the query, as well as your question.
     
     The LLM is receiving the user query and context which answers the question at the same time, so it is much more effective at returning with the correct answer. My early testing using this technology revealed as much!

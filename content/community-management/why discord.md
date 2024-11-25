@@ -10,7 +10,7 @@ url: https://www.aidanmolins.com/Why-Discord-3098f9a3d7dc493384d35a179fccffbe
 for:
   - portfolio
 draft: false
-title: Why Discord
+title: 🌐 Why Discord?
 ---
   
 # Why is Discord popular?

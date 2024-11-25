@@ -10,6 +10,7 @@ url: https://www.aidanmolins.com/Footnotes-5ca0bdd06aeb44068fabe142f6d4198b
 for:
   - portfolio
 draft: false
+title: Footnotes
 ---
 ## ==What’s RAG?==
 RAG has become quite common in recent months as a way to use Large Language Models (LLMs) to provide information and answers without hallucination. Here’s a simplified explanation of how it works:
@@ -42,7 +43,7 @@ That's where vector databases come in:
 ![[vector.jpg]]
 [Source.](https://weaviate.io/blog/what-is-a-vector-database)
 ---
-# [[What I Learned Building the RØDE Community]] Table of contents
+# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
 ## **What did we learn from making this all work?**
 ### ==Community structure:==
 [[Respect helpers, give them tools]]

@@ -10,6 +10,7 @@ url: https://www.aidanmolins.com/Why-Discord-3098f9a3d7dc493384d35a179fccffbe
 for:
   - portfolio
 draft: false
+title: Why Discord
 ---
   
 # Why is Discord popular?
@@ -60,7 +61,7 @@ Expand our reach by engaging in a space where creators and audio enthusiasts are
 **Elevate user experience**
 Build a community where users get answers quickly, troubleshoot collectively, and feel empowered to make the most of their gear.
 ---
-# [[What I Learned Building the RØDE Community]] Table of contents
+# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
 ## **What did we learn from making this all work?**
 ### ==Community structure:==
 [[Respect helpers, give them tools]]

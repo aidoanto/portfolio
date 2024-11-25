@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Aidan Molins (Portfolio)",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -24,32 +24,35 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        // Using modern, clean fonts similar to shadcn/ui
+        header: "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+        body: "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+        code: "JetBrains Mono, monospace",
       },
       colors: {
+        // Modern dark theme inspired by shadcn/ui
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#201b47",     // Page background (unchanged)
+          lightgray: "#2d2756",  // Borders (unchanged)
+          gray: "#443c7a",       // Graph links, heavier borders (unchanged)
+          darkgray: "#e4e4e4",   // Body text (unchanged)
+          dark: "#ffffff",       // Header text and icons (unchanged)
+          secondary: "#d4a193",  // Link color, current graph node (MODIFIED - brighter/more contrast)
+          tertiary: "#e5b5a7",   // Hover states and visited graph nodes (MODIFIED - brighter)
+          highlight: "rgba(212, 161, 147, 0.2)", // Internal link background (MODIFIED - more transparent)
+          textHighlight: "rgba(212, 161, 147, 0.3)", // Markdown highlighted text (MODIFIED - adjusted to match)
         },
+        // Use same colors for dark mode
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#201b47",     // Page background (unchanged)
+          lightgray: "#2d2756",  // Borders (unchanged)
+          gray: "#443c7a",       // Graph links, heavier borders (unchanged)
+          darkgray: "#e4e4e4",   // Body text (unchanged)
+          dark: "#ffffff",       // Header text and icons (unchanged)
+          secondary: "#d4a193",  // Link color, current graph node (MODIFIED - brighter/more contrast)
+          tertiary: "#e5b5a7",   // Hover states and visited graph nodes (MODIFIED - brighter)
+          highlight: "rgba(212, 161, 147, 0.2)", // Internal link background (MODIFIED - more transparent)
+          textHighlight: "rgba(212, 161, 147, 0.3)", // Markdown highlighted text (MODIFIED - adjusted to match)
         },
       },
     },

@@ -10,6 +10,7 @@ url: https://www.aidanmolins.com/Result-chart-line-go-up-bfbee4e21343433ebd28f82
 for:
   - portfolio
 draft: false
+title: Result- chart line go up!
 ---
   
   
@@ -49,7 +50,7 @@ I genuinely believe that since starting this plan, our brand image has improved.
 So, am I thinking of ways to test that hypothesis using more scientific methods? ==[[Yep, another guy making chatbots 😎]]==!
   
 ---
-# [[What I Learned Building the RØDE Community]] Table of contents
+# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
 ## **What did we learn from making this all work?**
 ### ==Community structure:==
 [[Respect helpers, give them tools]]

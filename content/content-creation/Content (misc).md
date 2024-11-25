@@ -8,15 +8,22 @@ for:
 by:
   - Aidan
 tags: 
-url:
+url: 
 draft: false
+title: Content (misc)
 ---
 
 ## 🧑‍🎨 Best graphics/editing:
 
 ### Loserfruit Comedy Sketch
 
+<iframe src="https://www.instagram.com/reel/CVjV07HDQsu/?hl=en" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 16 / 9;"></iframe>
+
 This 🤳 [Y2K-themed comedy sketch](https://www.instagram.com/reel/CVjV07HDQsu/?hl=en) with [Loserfruit](https://www.instagram.com/loserfruit/), was one deliverable in a bigger project in our "COVID" strategy at ReachOut. Our internal research showed a clear insight, where the Loneliest young people during COVID were the ones who enjoyed socialising online the least. 
+
+_ Note: You can see the post's performance using Instagram, above. However, if the Instagram embed isn't working you can see the full video backed up to ReachOut's YouTube channel below._
+
+<iframe title="Loserfruit's guide to friendship on the World Wide Web" src="https://www.youtube.com/embed/xUw7lJTqR4s?feature=oembed" height="150" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.33333 / 1; width: 100%; height: 100%;"></iframe>
 
 Part of our response involved giving young people resources to improve the quality of their online communication during lockdown periods when in-person hangouts weren't permitted. 
 
@@ -24,9 +31,15 @@ I produced this project and video from end-to-end, generating insights, planning
 
 ### Work with The Chaser
 
+<iframe src="https://www.facebook.com/thechaser/videos/534738730549184" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>
+
 Some 📹 [videos](https://www.facebook.com/thechaser/videos/534738730549184) I edited with [The Chaser](https://chaser.com.au/) to promote their show on [Triple M](https://triplem.listnr.com/sydney/), "The Chaser Report". Here's 📹 [another example](https://www.facebook.com/thechaser/videos/2797557310284831). I didn't write them, I swear! 😅
 
+<iframe src="https://www.facebook.com/thechaser/videos/2797557310284831" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>
+
 ## 🤝 Best partnerships between community and content:
+
+<iframe src="https://www.tiktok.com/@rode/video/7341248335027784962?lang=en" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>
 
 Here's a 🤳 [marketing promotion](https://www.tiktok.com/@rode/video/7341248335027784962?lang=en) we organised between our content and community teams, to engage our audience and drive engagement with our owned community platform (Discord). And here's 🤳 [another example](https://www.tiktok.com/@rode/video/7314188384925256961?lang=en) of our community content.
 

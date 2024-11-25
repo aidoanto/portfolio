@@ -10,6 +10,7 @@ url: https://www.aidanmolins.com/Respect-helpers-give-them-tools-516d346728db42d
 for:
   - portfolio
 draft: false
+title: Respect helpers, give them tools
 ---
 
 ---
@@ -65,7 +66,7 @@ This is what our ECHØES (helpful power-users) see when in the “requests” ch
 ---
 So, how did it go? ==[[Result- chart line go up!]]==
 ---
-# [[What I Learned Building the RØDE Community]] Table of contents
+# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
 ## **What did we learn from making this all work?**
 ### ==Community structure:==
 ### ==Community content strategy:==

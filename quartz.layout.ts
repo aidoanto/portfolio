@@ -14,26 +14,28 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// components for pages that display a single page (e.g. a single note)
+// Update the Explorer component to reflect the new structure
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    Component.Explorer({
+      title: "Stuff I've done",
+      folderClickBehavior: "link", // Navigate to folder's main page
+      folderDefaultState: "open", // Ensure all sections are expanded by default
+      useSavedState: false, // Disable saved state to always start with the default state
+      // filterFn: (node) => {
+      //   const include = new Set(["community-management", "content-creation", "data-analysis"])
+      //   return include.has(node.name.toLowerCase())
+      // },
+    }),
     Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -43,8 +45,16 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.Explorer({
+      title: "Stuff I've done",
+      folderClickBehavior: "link", // Navigate to folder's main page
+      folderDefaultState: "open", // Ensure all sections are expanded by default
+      useSavedState: false, // Disable saved state to always start with the default state
+      // filterFn: (node) => {
+      //   const include = new Set(["community-management", "content-creation", "data-analysis"])
+      //   return include.has(node.name.toLowerCase())
+      // },
+    }),
   ],
   right: [],
 }

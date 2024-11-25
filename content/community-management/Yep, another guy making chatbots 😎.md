@@ -10,6 +10,7 @@ url: https://www.aidanmolins.com/Yep-another-guy-making-chatbots-acd9f34ed95e490
 for:
   - portfolio
 draft: false
+title: Yep, another guy making chatbots 😎
 ---
 ## ==Communities & AI: you need to create data in order to use it!==
 Communities are the best way to generate knowledge at scale, full stop. Google seems to agree; they recently revealed [a new $60 million annual licensing deal with Reddit](https://www.cbsnews.com/news/google-reddit-60-million-deal-ai-training/) for rights to use the site’s data. Why? Because communities constantly create data that can’t be generated any other way.
@@ -55,7 +56,7 @@ It wouldn’t be difficult to turn this to a tool that anyone at RØDE could use
 ![[vector_space.png]]
 Source: A 3D diagram visualising the statistical analysis of text data in _vector space_. Certain clusters have been identified, as well as the closeness of clusters to one another.
 ---
-# [[What I Learned Building the RØDE Community]] Table of contents
+# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
 ## **What did we learn from making this all work?**
 ### ==Community structure:==
 [[Respect helpers, give them tools]]

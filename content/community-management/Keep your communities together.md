@@ -10,6 +10,7 @@ url: https://www.aidanmolins.com/Keep-your-communities-together-63cb3b093d8e4e97
 for:
   - portfolio
 draft: false
+title: Keep your communities together
 ---
 Need proof that custom Discord tools are worth it? We were able to bolster our affiliate program by developing a custom add-on:
 
@@ -32,7 +33,7 @@ Email verification, as a low security barrier to limit access to affiliates only
 The affiliate community is located within the general server, strengthening both.
   
 ---
-# [[What I Learned Building the RØDE Community]] Table of contents
+# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
 ## **What did we learn from making this all work?**
 ### ==Community structure:==
 [[Respect helpers, give them tools]]

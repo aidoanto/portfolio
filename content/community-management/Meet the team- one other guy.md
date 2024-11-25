@@ -10,6 +10,7 @@ url: https://www.aidanmolins.com/Meet-the-team-one-other-guy-df2b4587ffe143088bc
 for:
   - portfolio
 draft: false
+title: Meet the team- one other guy
 ---
 As we crafted our plan, we knew that there were a few limitations of the Discord platform which needed to be circumvented.
 That required someone truly unique – a backend Javascript/Discord.js developer, an experienced community leader, able to approach messy problems with a fresh POV, who lived somewhere in the western hemisphere, so they could potentially handle emergencies if I was asleep!
@@ -27,7 +28,7 @@ Even further back, I hustled for clicks and shares by making videos, articles an
 **Other stuff I do**
 YouTube video essays, Smash Bros Melee tournament commentary, improv comedy, learn Python for data analytics.
 ---
-# [[What I Learned Building the RØDE Community]] Table of contents
+# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
 ## **What did we learn from making this all work?**
 ### ==Community structure:==
 [[Respect helpers, give them tools]]

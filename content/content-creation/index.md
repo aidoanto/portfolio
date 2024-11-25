@@ -10,6 +10,7 @@ url: https://www.aidanmolins.com/Optimising-impact-through-content-my-work-for-R
 for:
   - portfolio
 draft: false
+title: "Optimising impact through content: my work for ReachOut"
 ---
 [https://www.youtube.com/watch?v=AUi5PwPzB_A&t=23s](https://www.youtube.com/watch?v=AUi5PwPzB_A&t=23s)
 ## Video Production: "Ask a therapist: What to do if you're feeling lonely" for ReachOut
@@ -24,7 +25,7 @@ As the producer, director, and editor of this video for ReachOut, Australia's le
 ![[image 6.png]]
 ## Balancing Impact and SEO: A Case Study in Mental Health Content
 During my tenure at ReachOut, I identified a critical gap in our content: ADHD resources for young people. Conventional wisdom deemed ADHD too "niche" and "specialist" compared to broader conditions like depression and anxiety.
-However, using [[Optimising impact through content- my work for ReachOut]], I discovered that ADHD-related search volumes rivaled those of depression and anxiety combined. This eye-opening insight not only secured executive-level buy-in for the project but also shaped our content strategy.
+However, using [[areas/job-stuff/portfolio/content-creation/index]], I discovered that ADHD-related search volumes rivaled those of depression and anxiety combined. This eye-opening insight not only secured executive-level buy-in for the project but also shaped our content strategy.
 ### The Mission
 My primary task was to **create impactful ADHD content that aligned with ReachOut's strategy and values**, while maximizing our positive influence on young people's mental health.
 ### The Approach

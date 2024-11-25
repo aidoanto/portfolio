@@ -11,11 +11,12 @@ url: https://aidanmolins.com
 for:
   - portfolio
 draft: false
+title: My Portfolio
 ---
 
 ![[portfolio-rode_discord_messages_over_time.png]]
-# [[What I Learned Building the RØDE Community]]
-[[What I Learned Building the RØDE Community]]
+# [[community-management/index|What I Learned Building The RØDE Community]]
+
 A case study exploring the unique challenges in building and managing a brand's online community through Discord.
 ### Skills:
 - 🤝 Community Management
@@ -23,9 +24,11 @@ A case study exploring the unique challenges in building and managing a brand's 
 - 🎙️ Product/Brand Development
 - 📊 User Engagement Analysis
 ---
-[https://www.youtube.com/watch?v=AUi5PwPzB_A](https://www.youtube.com/watch?v=AUi5PwPzB_A)
-# [[Optimising impact through content- my work for ReachOut]]
-[[Optimising impact through content- my work for ReachOut]]
+
+<iframe title="Ask a therapist: What to do if you’re feeling lonely" src="https://www.youtube.com/embed/AUi5PwPzB_A?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+# [[content-creation/index|Optimising impact through content: my work for ReachOut]]
+
 A showcase of content optimization strategies to maximize impact for the ReachOut organization.
 ### Skills:
 - 📝 Content Creation
@@ -33,8 +36,8 @@ A showcase of content optimization strategies to maximize impact for the ReachOu
 - 🎯 Impact Assessment
 - 🧠 Mental Health Expertise
 ![[portfolio-Topic_analysis_diagram_1_(1).png]]
-# [[Innovating Customer Service with AI and Data Analysis at Lorikeet]]
-[[Innovating Customer Service with AI and Data Analysis at Lorikeet]]
+# [[data-analysis/index|Innovating Customer Service with AI and Data Analysis at Lorikeet]]
+
 An overview of implementing AI and data analysis to enhance customer service operations at Lorikeet.
 ### Skills:
 - 🤖 AI Implementation

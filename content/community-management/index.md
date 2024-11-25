@@ -11,6 +11,7 @@ url: https://www.aidanmolins.com/What-I-Learned-Building-the-R-DE-Community-5082
 for:
   - portfolio
 draft: false
+title: What I Learned Building the RØDE Community
 ---
  
 > [!important]  
@@ -66,7 +67,7 @@ We believed if we provided our community with the ==[[Respect helpers, give them
 Our server stands out as being a very unique and powerful thing on the internet. [Check it out!](https://discord.gg/audio-video-pros-by-rode-1001456982777155634)
   
 ---
-# [[What I Learned Building the RØDE Community]] Table of contents
+# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
 ## **What did we learn from making this all work?**
 ### ==Community structure:==
 [[Respect helpers, give them tools]]

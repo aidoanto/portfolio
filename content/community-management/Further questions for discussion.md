@@ -10,6 +10,7 @@ url: https://www.aidanmolins.com/Further-questions-for-discussion-d71327fc9b0c41
 for:
   - portfolio
 draft: false
+title: Further questions for discussion
 ---
   
 ### ==Idea \#2: Affiliate marketing within our community==
@@ -51,7 +52,7 @@ What if brands were transparent about using community data? It's not about claim
 ![[Untitled 2 6.png]]
 The new era of LLMs have taught us that users feel savvy about information that may not be accurate. They feel like they understand the advantages and limitations.
 ---
-# [[What I Learned Building the RØDE Community]] Table of contents
+# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
 ## **What did we learn from making this all work?**
 ### ==Community structure:==
 [[Respect helpers, give them tools]]

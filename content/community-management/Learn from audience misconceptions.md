@@ -10,6 +10,7 @@ url: https://www.aidanmolins.com/Learn-from-audience-misconceptions-ad5d0f839e25
 for:
   - portfolio
 draft: false
+title: Learn from audience misconceptions
 ---
 
 ---
@@ -42,7 +43,7 @@ Give your most dedicated community members the tools to give accurate and helpfu
 **Course correct with clarity**
 When bad info does pop up, you can step in with official, user-friendly guidance that sets the record straight.
 ---
-# [[What I Learned Building the RØDE Community]] Table of contents
+# [[areas/job-stuff/portfolio/community-management/index]] Table of contents
 ## **What did we learn from making this all work?**
 ### ==Community structure:==
 [[Respect helpers, give them tools]]

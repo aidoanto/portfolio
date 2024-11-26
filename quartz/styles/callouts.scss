@@ -32,7 +32,21 @@
   &[data-callout] {
     --color: #d4a190;
     --border: rgba(57, 27, 12, 0.7);
-    --bg: rgba(56, 36, 26, 0.7);
+    --bg: #3D3770;
+    --callout-icon: var(--callout-icon-quote);
+  }
+
+  &[data-callout="Hi"] {
+    --color: #d4a190;
+    --border: rgba(57, 27, 12, 0.7);
+    --bg: #3D3770;
+    --callout-icon: var(--callout-icon-quote);
+  }
+
+  &[data-callout="rode"] {
+    --color: #d4a190;
+    --border: rgba(57, 27, 12, 0.7);
+    --bg: #3D3770;
     --callout-icon: var(--callout-icon-example);
   }
 
@@ -45,9 +59,9 @@
 
   &[data-callout="info"],
   &[data-callout="todo"] {
-    --color: #00b8d4;
-    --border: #00b8d444;
-    --bg: #00b8d410;
+    --color: #d4a190;
+    --border: rgba(57, 27, 12, 0.7);
+    --bg: #3D3770;
     --callout-icon: var(--callout-icon-info);
   }
 

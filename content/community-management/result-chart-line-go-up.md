@@ -12,7 +12,7 @@ for:
 draft: false
 title: 📈 Proving It (Result- chart line go up!)
 ---
-When I started at RØDE in March 2023, we had around 350 members. In the year since then, that number has grown to around 4500.
+When I started at RØDE in March 2023, we had around **350** members. In the year since then, that number has grown to around **4500**
 
 ---
 
@@ -36,6 +36,7 @@ In addition to membership growing, engagement has been growing alongside it.
 When I arrived at RØDE one year ago, my goal was to massively improve our users' experience attempting to get help on our platform.
 
 To do this, we created:
+
 - [[community-management/respect-helpers-give-them-tools|new community values]]
 - [[community-management/respect-helpers-give-them-tools|new moderation policies]]
 - [[community-management/respect-helpers-give-them-tools|a new community structure]]
@@ -49,6 +50,7 @@ To do this, we created:
 **Early results speak for themselves**
 
 Eighty-one support queries were tackled in January 2024 alone! This extrapolates to potentially hundreds or even thousands of cases historically resolved organically within the community.
+
 - While the place of gamification techniques in community design deserve further discussion in another piece, our approach has definitely worked thus far.
 
 ![[rode_discord_messages_over_time 2.png]]
@@ -61,3 +63,36 @@ The number of messages in our product help channels, over time. In July, we swit
 I genuinely believe that since starting this plan, our brand image has improved. I'm biased, but I'm also the only one who looks and each and every word, image, and video which is posted about or in response to RØDE, everyday.
 
 So, am I thinking of ways to test that hypothesis using more scientific methods? [[community-management/another-guy-making-chatbots|Yep, you bet]]!
+
+
+---
+
+
+> [!rode] What did we learn from making this all work?
+> # [[community-management/index|🏠 What I Learned Building the RØDE Community]]
+> 
+> ### Community structure:
+> [[community-management/respect-helpers-give-them-tools|💜 Community Strategy (Respect helpers, give them tools)]]
+> 
+> ### Community content strategy:
+> [[community-management/learn-from-audience-misconceptions|🎓 Community Content Strategy (Learn from audience misconceptions)]]
+> 
+> ### Using community data:
+> [[community-management/another-guy-making-chatbots|😎 Using Community Knowledge (Yep, another guy making chatbots)]]
+> 
+> ### Creating custom solutions:
+> [[community-management/keep-your-communities-together|🗺️ Creating a Meaningful Community UX (with Discord)]]
+> 
+> ### Service design:
+> [[community-management/brands-compete-on-user-experiences|🪄 Service Design (Brands compete on user experiences)]]
+> 
+> ### Proving it:
+> [[community-management/result-chart-line-go-up|📈 Proving It (Result- chart line go up!)]]
+> 
+> ---
+> 
+> ### Misc.
+> [[community-management/why-discord|🌐 Why Discord?]]
+> [[community-management/further-questions-for-discussion|❔ Further questions for discussion]]
+> [[community-management/footnotes|📜 Footnotes]]
+> [[community-management/meet-the-team|👋 Meet the team- one other guy]]

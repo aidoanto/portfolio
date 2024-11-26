@@ -19,7 +19,8 @@ Communities seem like the secret sauce for new products and media orgs these day
 
 ### Bottom line
 We learned that to keep helpful, positive, engaged users, we couldn't afford to:
-- Let toxic behavior fester
+
+- Let toxic behaviour fester
 - Ignore the community's feedback
 - Seem distant or uncaring
 
@@ -47,8 +48,8 @@ If you want your community to do something, the easier it is to do, the more the
 
 ![[server_roles_alpha.png]]
 
-> [!important]  
-> MVP Prize: Our server was growing, and so were the number help requests from server members. I was swamped and couldn't keep up. So, we created a monthly "MVP" prize for the most helpful community member. Since then, the amount of time and energy they've provided to the server has been immeasurable. I couldn't be more grateful.  
+> [!Info] MVP Prize:  
+> Our server was growing, and so were the number help requests from server members. I was swamped and couldn't keep up. So, we created a monthly "MVP" prize for the most helpful community member. Since then, the amount of time and energy they've provided to the server has been immeasurable. I couldn't be more grateful.  
 
 ---
 
@@ -72,8 +73,7 @@ This is what our ECHØES (helpful power-users) see when in the "requests" channe
 
 ---
 
-> [!important]  
-> How does this system work?
+> [!info] How does this system work?
 > 
 > ![[Screenshot_2024-02-28_102356.png]]
 > 
@@ -96,3 +96,33 @@ This is what our ECHØES (helpful power-users) see when in the "requests" channe
 ---
 
 ### So, how did it go? [[community-management/result-chart-line-go-up|📈 Proving It]]
+
+
+> [!rode] What did we learn from making this all work?
+> # [[community-management/index|🏠 What I Learned Building the RØDE Community]]
+> 
+> ### Community structure:
+> [[community-management/respect-helpers-give-them-tools|💜 Community Strategy (Respect helpers, give them tools)]]
+> 
+> ### Community content strategy:
+> [[community-management/learn-from-audience-misconceptions|🎓 Community Content Strategy (Learn from audience misconceptions)]]
+> 
+> ### Using community data:
+> [[community-management/another-guy-making-chatbots|😎 Using Community Knowledge (Yep, another guy making chatbots)]]
+> 
+> ### Creating custom solutions:
+> [[community-management/keep-your-communities-together|🗺️ Creating a Meaningful Community UX (with Discord)]]
+> 
+> ### Service design:
+> [[community-management/brands-compete-on-user-experiences|🪄 Service Design (Brands compete on user experiences)]]
+> 
+> ### Proving it:
+> [[community-management/result-chart-line-go-up|📈 Proving It (Result- chart line go up!)]]
+> 
+> ---
+> 
+> ### Misc.
+> [[community-management/why-discord|🌐 Why Discord?]]
+> [[community-management/further-questions-for-discussion|❔ Further questions for discussion]]
+> [[community-management/footnotes|📜 Footnotes]]
+> [[community-management/meet-the-team|👋 Meet the team- one other guy]]

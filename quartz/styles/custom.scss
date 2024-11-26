@@ -2,18 +2,41 @@
 
 // put your custom CSS here!
 
-// Adjust the layout for the left column and main content
-.layout {
-display: flex;
-flex-direction: row;
-}
+// // Adjust the layout for the left column and main content
+// .layout {
+// display: flex;
+// flex-direction: row;
+// }
 
-.left-column {
-    flex: 0 0 25%; // Adjust this to 30% if needed
-    max-width: 30%;
-}
+// .left-column {
+//     flex: 0 0 25%; // Adjust this to 30% if needed
+//     max-width: 30%;
+// }
 
-.main-content {
-flex: 1; // This will take the remaining space
-max-width: 75%;
-}
+// .main-content {
+// flex: 1; // This will take the remaining space
+// max-width: 75%;
+// }
+
+.page article {
+    img {
+      max-width: 75%;
+      max-height: 75vh;
+      width: auto;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+      object-fit: contain;
+    }
+  
+    // For mobile screens
+    @media all and (max-width: 800px) {
+      img {
+        max-width: 100%;
+        max-height: 80vh; // slightly smaller for mobile
+      }
+    }
+  }

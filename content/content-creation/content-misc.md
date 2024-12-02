@@ -8,7 +8,6 @@ for:
 by:
   - Aidan
 tags: 
-url: 
 draft: false
 title: 📼 Content (misc)
 ---

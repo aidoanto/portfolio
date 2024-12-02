@@ -6,7 +6,6 @@ archive: false
 by:
   - Aidan
 tags: 
-url: https://www.aidanmolins.com/Further-questions-for-discussion-d71327fc9b0c419d9d7d54f3940c7ff7
 for:
   - portfolio
 draft: false

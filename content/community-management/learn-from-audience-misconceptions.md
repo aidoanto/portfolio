@@ -6,7 +6,6 @@ archive: false
 by:
   - Aidan
 tags: 
-url: https://www.aidanmolins.com/Learn-from-audience-misconceptions-ad5d0f839e254a588c67e299d8007195
 for:
   - portfolio
 draft: false

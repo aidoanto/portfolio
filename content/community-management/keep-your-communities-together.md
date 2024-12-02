@@ -6,7 +6,6 @@ archive: false
 by:
   - Aidan
 tags: 
-url: https://www.aidanmolins.com/Keep-your-communities-together-63cb3b093d8e4e978be045be845ae4e6
 for:
   - portfolio
 draft: false

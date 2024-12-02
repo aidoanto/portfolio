@@ -6,7 +6,6 @@ archive: false
 by:
   - Aidan
 tags: 
-url: https://www.aidanmolins.com/Yep-another-guy-making-chatbots-acd9f34ed95e490394545fe5da49c078
 for:
   - portfolio
 draft: false

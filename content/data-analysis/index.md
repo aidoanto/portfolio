@@ -6,7 +6,6 @@ archive: false
 by:
   - Aidan
 tags: 
-url: https://www.aidanmolins.com/Innovating-Customer-Service-with-AI-and-Data-Analysis-at-Lorikeet-11853792ce3480f09f5fdda70b190010
 for:
   - portfolio
 draft: false

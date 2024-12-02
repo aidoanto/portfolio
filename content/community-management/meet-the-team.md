@@ -6,7 +6,6 @@ archive: false
 by:
   - Aidan
 tags: 
-url: https://www.aidanmolins.com/Meet-the-team-one-other-guy-df2b4587ffe143088bcb5fe42eb5754b
 for:
   - portfolio
 draft: false

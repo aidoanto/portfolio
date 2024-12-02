@@ -7,7 +7,6 @@ by:
   - Aidan
 tags:
   - hub
-url: https://www.aidanmolins.com/What-I-Learned-Building-the-R-DE-Community-5082f5c5e5444301b8fd7e909f2cda1b
 for:
   - portfolio
 draft: false
@@ -16,8 +15,8 @@ title: 🏠 What I Learned Building the RØDE Community
  > [!Hi] Hi! I'm Aidan. 
 > "I wrote this case study to reflect on my first year working on RØDE's online community. I also wrote it to share with my network. There is a lot of stuff here. You don't need to read it all. Promise!"
 > 
-> Info on this page is private – please don't share with anyone else without asking first.
-> 
+
+
 > ### Problem
 > * RØDE wanted to develop a community around its brand and products
 > * Users wanted help with their products
@@ -46,7 +45,7 @@ Mostly, marketing departments that try "community building" fail, because a comm
 
 ---
 
-When I joined RØDE, [[community-management/why-discord|🌐 Why Discord?]] for marketing-related activities, like sweet livestreams, gaming tournaments, and community hangouts.
+When I joined RØDE, [[community-management/why-discord|the company community strategy involved]] marketing-related activities, like sweet livestreams, gaming tournaments, and community hangouts.
 
 The idea was, it would be separate from our product support experience.
 
@@ -56,7 +55,7 @@ No matter how many reminders the previous team gave our users about this, we rec
 
 ![[Screenshot_2024-02-27_121009.png]]
 
-When I joined RØDE, the "go away" strategy didn't seem to be working.
+*When I joined RØDE, the "go away" strategy didn't seem to be working.*
 
 ---
 
@@ -70,19 +69,19 @@ Of course, as any designer reading this knows, the opposite was happening. _They
 
 Their behavior made sense! It's often faster to ask enthusiasts on Discord product questions than it is to wait for a support team to return your email. The community's collective knowledge reaches a lot further than the information in our user guides, too.
 
-I realised that I could achieve [[community-management/why-discord|🌐 Why Discord?]], if only I could just get them the help they needed.
+I realised that I could achieve [[community-management/why-discord|all our community goals]], if only I could just get them the help they needed.
 
 Put bluntly, the community was asking us:
 
 > _If you aren't going to do the bare minimum by helping us fix the issues with your products, why would we hang out on your livestreams or participate in your giveaways?_
 
-Most of the time as marketers, we create marketing goals to acquire users for a service. Instead, I realised I needed to provide a service to achieve [[community-management/why-discord|🌐 Why Discord?]]!
+Most of the time as marketers, we create marketing goals to acquire users for a service. Instead, I realised I needed to provide a service to achieve [[community-management/why-discord|our marketing/community goals]]!
 
 ## Our pivot
 
 We had to ditch the idea of the community being just for _our_ goals. Instead, we focused on what _they_ wanted: a natural way to get support, connect with us, help each other, and build relationships.
 
-We believed if we provided our community with the [[community-management/respect-helpers-give-them-tools|💜 Community Strategy]], [[community-management/brands-compete-on-user-experiences|🪄 Service Design]], [[community-management/respect-helpers-give-them-tools|💜 Community Strategy]], and leadership, they would have a positive experience, find the answers they needed, and stick around for our giveaways and livestreams as well.
+We believed if we provided our community with the [[community-management/respect-helpers-give-them-tools|right structure]], [[community-management/brands-compete-on-user-experiences|the right tools]], [[community-management/respect-helpers-give-them-tools|and consistent community leadership]], they would have a positive experience, find the answers they needed, and stick around for our giveaways and livestreams as well.
 
 ### [[community-management/result-chart-line-go-up|📈 Proving It]]
 

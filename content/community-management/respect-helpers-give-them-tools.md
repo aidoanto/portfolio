@@ -6,7 +6,6 @@ archive: false
 by:
   - Aidan
 tags: 
-url: https://www.aidanmolins.com/Respect-helpers-give-them-tools-516d346728db42dc8df5729d128df2db
 for:
   - portfolio
 draft: false

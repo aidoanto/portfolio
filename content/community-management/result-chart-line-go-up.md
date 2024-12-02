@@ -6,7 +6,6 @@ archive: false
 by:
   - Aidan
 tags: 
-url: https://www.aidanmolins.com/Result-chart-line-go-up-bfbee4e21343433ebd28f82864e2f353
 for:
   - portfolio
 draft: false

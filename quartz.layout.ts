@@ -73,6 +73,38 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Explorer({
+      title: "Stuff I've done",
+      folderClickBehavior: "link",
+      folderDefaultState: "open",
+      useSavedState: false,
+      sortFn: (a, b) => {
+        const nameOrderMap: Record<string, number> = {
+          "index.md": 100,
+          "community-management": 200,
+          "community-management/index.md": 201,
+          "community-management/respect-helpers-give-them-tools": 202,
+          "community-management/learn-from-audience-misconceptions": 203,
+          "community-management/keep-your-communities-together": 204,
+          "community-management/brands-compete-on-user-experiences": 205,
+          "community-management/another-guy-making-chatbots": 206,
+          "community-management/result-chart-line-go-up": 207,
+          "community-management/why-discord": 208,
+          "community-management/further-questions-for-discussion": 209,
+          "community-management/footnotes": 210,
+          "community-management/meet-the-team": 211,
+          "content-creation": 300,
+          "content-misc": 301,
+          "content-creation/index.md": 302,
+          "data-analysis": 400,
+          "data-analysis/index.md": 401,
+          "my-cv": 500,
+        };
+
+        let orderA = nameOrderMap[a.file?.slug || a.name] ?? 999999;
+        let orderB = nameOrderMap[b.file?.slug || b.name] ?? 999999;
+
+        return orderA - orderB;
+      },
     })
   ],
   right: [],

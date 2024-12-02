@@ -6,7 +6,6 @@ archive: false
 by:
   - Aidan
 tags: 
-url: https://www.aidanmolins.com/Footnotes-5ca0bdd06aeb44068fabe142f6d4198b
 for:
   - portfolio
 draft: false

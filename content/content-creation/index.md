@@ -6,7 +6,6 @@ archive: false
 by:
   - Aidan
 tags: 
-url: https://www.aidanmolins.com/Optimising-impact-through-content-my-work-for-ReachOut-11853792ce34808cabf5c7c17a36bcd8
 for:
   - portfolio
 draft: false
@@ -33,7 +32,7 @@ As the producer, director, and editor of this video for ReachOut, Australia's le
 ## Balancing Impact and SEO: A Case Study in Mental Health Content
 
 During my tenure at ReachOut, I identified a critical gap in our content: ADHD resources for young people. Conventional wisdom deemed ADHD too "niche" and "specialist" compared to broader conditions like depression and anxiety.
-However, using [[areas/job-stuff/portfolio/content-creation/index]], I discovered that ADHD-related search volumes rivaled those of depression and anxiety combined. This eye-opening insight not only secured executive-level buy-in for the project but also shaped our content strategy.
+However, using [AHREFs](https://ahrefs.com), I discovered that ADHD-related search volumes rivaled those of depression and anxiety combined. This eye-opening insight not only secured executive-level buy-in for the project but also shaped our content strategy.
 
 ### The Mission
 

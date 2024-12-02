@@ -40,3 +40,37 @@
       }
     }
   }
+
+  /* Add this to your custom CSS */
+.explorer {
+  /* Increase overall spacing */
+  padding: 0.5rem;
+}
+
+#explorer-ul {
+  /* Add more space between items */
+  li {
+    padding: 0.3rem 0;
+    
+    /* Add hover effect for better interaction */
+    &:hover {
+      background-color: var(--hover);
+      border-radius: 4px;
+    }
+  }
+  
+  /* Improve folder/file spacing */
+  .folder, .file {
+    padding: 0.2rem 0.5rem;
+  }
+  
+  /* Add subtle dividers between major sections */
+  & > li {
+    border-bottom: 1px solid var(--lightgray);
+    margin-bottom: 0.5rem;
+    
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}

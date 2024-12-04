@@ -14,7 +14,7 @@ title: 🦜 Innovating Customer Service with AI and Data Analysis at Lorikeet
 ### Or, how I turned messy customer service data into automated workflows by combining Python, machine learning, and a healthy appreciation for the everyday work of support teams.
 # The Challenge
 
-At Lorikeet (formerly OpTech), an AI-driven customer service platform, I worked closely with customers looking to scale their support operations using our agentic AI customer service application. To do do this, we used our platform to create workflows, similar to the one below.
+At Lorikeet (formerly OpTech), an AI-driven customer service platform, I worked closely with customers l`ooking to scale their support operations using our agentic AI customer service application. To do do this, we used our platform to create workflows, similar to the one below.
 
 This kind of structured data is rarely held by customer service teams, and when it is, it’s not always accurate.
 ![[Example_AI_customer_service_workflow_(1).png]]

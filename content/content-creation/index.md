@@ -15,15 +15,14 @@ title: "🧠 Optimising impact through content: my work for ReachOut"
 
 ## Video Production: "Ask a therapist: What to do if you're feeling lonely" for ReachOut
 
-As the producer, director, and editor of this video for ReachOut, Australia's leading youth mental health organization, I created content that not only resonated with our target audience but also achieved remarkable success metrics.
+As the producer, director, and editor of this video for ReachOut, Australia's leading youth mental health organization, I created content that not only resonated with our target audience but also was one of their most viewed videos ever.
 
 ### Key Achievements:
 
-1. Viewership: This video became the 3rd most-viewed in ReachOut's 26-year history and is on track to become their most-watched video ever.
-2. Audience Engagement: The content generated dozens of positive comments from viewers, indicating a strong emotional connection and real-world impact.
-3. Talent Recruitment: I recruited and directed Rashida Dungarwalla, a Registered Psychologist, ensuring the content was both authoritative and relatable.
-4. SEO Optimization: Through careful selection of the video title, topic, and thumbnail, I maximized the video's discoverability on YouTube.
-5. Video Production: I directed and edited the video to maintain engagement, incorporating smooth transitions, well-timed music breaks, and animations to support the content.
+1. The content generated dozens of positive comments from viewers, indicating a strong **emotional connection and real-world impact**.
+2. I used industry connections to recruit and direct Rashida Dungarwalla, a Registered Psychologist, ensuring the content was both **authoritative and relatable**.
+4. Through careful selection of the video title, topic, and thumbnail, I **optimised for discoverability** on YouTube.
+5. Used effective editing and directing techniques, incorporating smooth transitions, well-timed music breaks, and animations to **maximise user engagement**.
 
 ---
 
@@ -31,8 +30,9 @@ As the producer, director, and editor of this video for ReachOut, Australia's le
 
 ## Balancing Impact and SEO: A Case Study in Mental Health Content
 
-During my tenure at ReachOut, I identified a critical gap in our content: ADHD resources for young people. Conventional wisdom deemed ADHD too "niche" and "specialist" compared to broader conditions like depression and anxiety.
-However, using [AHREFs](https://ahrefs.com), I discovered that ADHD-related search volumes rivaled those of depression and anxiety combined. This eye-opening insight not only secured executive-level buy-in for the project but also shaped our content strategy.
+During my tenure at ReachOut, I helped to identify a critical gap in our content: ADHD resources for young people.
+
+Using [AHREFs](https://ahrefs.com), I discovered that ADHD-related search volumes rivaled those of depression and anxiety combined. This eye-opening insight helped to shaped our content strategy, and gave us key areas where we could create impactful, high quality content.
 
 ### The Mission
 
@@ -44,8 +44,6 @@ My primary task was to **create impactful ADHD content that aligned with ReachOu
 
 I dug deep into ADHD, looking at scientific studies, expert advice, and what young people were searching for online. This helped us create content that was accurate and useful. I found out what questions people had about ADHD and used this to guide our writing.
 
-The end result was a practical and data-driven set of goals and best practices for creating ADHD content.
-
 **Step 2: Strategic planning**
 
 With this strategy in place, we were able to created a comprehensive ADHD section for our website. This meant thinking carefully about what to include and how to present it. This allowed us to balance formats across written articles, videos, Instagram carousels.
@@ -54,11 +52,11 @@ This strategic planning also helped to address our most pressing user needs, (i.
 
 **Step 3: Work with Experts**
 
-We teamed up with a clinical psychologist, [Amy Burton](https://profiles.uts.edu.au/Amy.Burton), fact check the articles we wrote, and also write some others herself. This helped make sure everything we wrote was correct and trustworthy.
+We teamed up with a clinical psychologist, [Amy Burton](https://profiles.uts.edu.au/Amy.Burton), fact check the articles we wrote, and also write some others herself.
 
 **Step 4: Clear, Searchable Writing**
 
-Our main article, ["Do I have ADHD?"](https://au.reachout.com/challenges-and-coping/adhd/do-i-have-adhd), is a good example of how we write. We addressed the questions people were asking, but explained exactly why diagnosis can only be done by professionals.
+Our main article, ["Do I have ADHD?"](https://au.reachout.com/challenges-and-coping/adhd/do-i-have-adhd), addressed the questions people were asking, but explained exactly why diagnosis can only be done by professionals. It remains a great example of how we were able to succeed by meeting our audience in the middle.
 
 Amy’s authorship was crucial in making our content as helpful as possible and had the added benefit of boosting our SEO ranking (Google prioritises ‘trustworthy’ sources for sensitive topics such as these).
 

@@ -17,7 +17,7 @@ title: 📄 My CV
 I am a skilled community manager and video/audio content producer with a proven track record of creating engaging digital experiences and leveraging data analysis for product optimization. I excel at fostering online communities, developing impactful content, and collaborating across teams to drive growth and achieve strategic goals.
 ## **Experience**
 ### Product Operations, Lorikeet
-**Sydney, NSW March 2024 – Present**
+**Sydney, NSW February 2024 – Present**
 - Conduct Exploratory Data Analysis (EDA) on new subscribers' historical customer service tickets using Python and Jupyter notebooks, contributing to product optimization and customer onboarding strategies.
 - Utilize the Merge API to integrate and analyze diverse data sources, enhancing the company's data-driven decision-making processes.
 - Perform data analysis on the production PostgreSQL database to evaluate customer performance and identify trends in service utilization.
@@ -26,7 +26,7 @@ I am a skilled community manager and video/audio content producer with a proven 
 - Contribute to product development ideation, research and documentation of user data and needs.
 **Key Achievement**: Prototyped a "topic analysis" function in a notebook which eventually was turned into a product feature.
 ### Community Manager, RØDE
-**Sydney, NSW February 2023 – March 2024**
+**Sydney, NSW January 2023 – January 2024**
 - Revamped RØDE's multi-platform community strategy, with a focus on Discord and Twitch, driving engagement and fostering brand loyalty.
 - Facilitated cross-departmental communication, using community insights to inform product development, marketing initiatives, and overall growth strategies.
 - Directly managed RØDE's Discord server, combining brand ambassadorship with technical support expertise to enhance the user experience.
@@ -34,7 +34,7 @@ I am a skilled community manager and video/audio content producer with a proven 
 - Built custom Discord add-ons and internal AI tools, streamlining processes and maximizing the value of my community knowledge base.
 **Key Achievement**: Transformed a support-centric Discord into a thriving hub of product enthusiasm and advocacy.
 ### Content Producer, ReachOut
-**Sydney, NSW June 2020 – April 2023**
+**Sydney, NSW May 2020 – January 2023**
 - Developed, produced, and evaluated content for ReachOut's digital platforms (YouTube, TikTok, etc.), connecting with diverse youth audiences and addressing sensitive mental health topics such as racism, sexual assault, and LGBTQ+ issues.
 - Collaborated across teams (digital, marketing, community) to ensure content strategies aligned with ReachOut's overall mission and goals.
 - Analyzed performance data to understand audience impact and drive content refinement.

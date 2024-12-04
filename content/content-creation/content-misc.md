@@ -16,11 +16,9 @@ title: 📼 Content (misc)
 
 ### Loserfruit Comedy Sketch
 
-<iframe src="https://www.instagram.com/reel/CVjV07HDQsu/?hl=en" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 16 / 9;"></iframe>
+![[loserfruit-instagram-post-video.png]]
 
 This 🤳 [Y2K-themed comedy sketch](https://www.instagram.com/reel/CVjV07HDQsu/?hl=en) with [Loserfruit](https://www.instagram.com/loserfruit/), was one deliverable in a bigger project in our "COVID" strategy at ReachOut. Our internal research showed a clear insight, where the Loneliest young people during COVID were the ones who enjoyed socialising online the least. 
-
-_Note: You can see the post's performance using Instagram, above. However, if the Instagram embed isn't working you can see the full video backed up to ReachOut's YouTube channel below._
 
 <iframe title="Loserfruit's guide to friendship on the World Wide Web" src="https://www.youtube.com/embed/xUw7lJTqR4s?feature=oembed" height="150" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.33333 / 1; width: 100%; height: 100%;"></iframe>
 
@@ -28,23 +26,22 @@ Part of our response involved giving young people resources to improve the quali
 
 I produced this project and video from end-to-end, generating insights, planning and justifying a wider response, creating the influencer partnership with Kath and [Click Media](https://clickmedia.group/), testing the script and theme with our internal focus groups, writing and directing the video remotely, and all of the post production (including creating the music and 3D graphics).
 
+![[loserfruit-instagram-post-comments.png]]
+*Comments from fellow influencers [Pestily](https://www.youtube.com/c/pestily) and [Fasffy](https://www.youtube.com/@Fasffy), quoting lines from the video*
+
 ### Work with The Chaser
 
-<iframe src="https://www.facebook.com/thechaser/videos/534738730549184" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>
+![[chaser-video-scott-morissons-advertising.png]]
 
 Some 📹 [videos](https://www.facebook.com/thechaser/videos/534738730549184) I edited with [The Chaser](https://chaser.com.au/) to promote their show on [Triple M](https://triplem.listnr.com/sydney/), "The Chaser Report". Here's 📹 [another example](https://www.facebook.com/thechaser/videos/2797557310284831). I didn't write them, I swear! 😅
 
-<iframe src="https://www.facebook.com/thechaser/videos/2797557310284831" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>
+![[chaser-video-true-crime.png]]
 
 ## 🤝 Best partnerships between community and content:
 
-<iframe src="https://www.tiktok.com/@rode/video/7341248335027784962?lang=en" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>
+![[rode-discord-community-shortform.png]]
 
 Here's a 🤳 [marketing promotion](https://www.tiktok.com/@rode/video/7341248335027784962?lang=en) we organised between our content and community teams, to engage our audience and drive engagement with our owned community platform (Discord). And here's 🤳 [another example](https://www.tiktok.com/@rode/video/7314188384925256961?lang=en) of our community content.
-
-## 🍋 Most surprising success:
-
-When I worked for NOVA radio, I was asked to create some "quick wins" to account for our team's shifting publishing schedule. With the goal of getting something online in less than an hour, I quickly took something I found on Twitter and put some inspiring stock music behind it. The 📹 [result](https://www.facebook.com/NovaPodcasts/videos/490990434671203) was a post that generated more engagement than at least 95% of videos I've created so far. 
 
 ## 😅 Most "wow okay this one found an audience":
 

@@ -10,6 +10,7 @@ by:
 tags: 
 draft: false
 title: 📼 Content (misc)
+socialImage: "banner_main.png"
 ---
 
 ## 🧑‍🎨 Best graphics/editing:
@@ -33,7 +34,7 @@ I produced this project and video from end-to-end, generating insights, planning
 
 ![[chaser-video-scott-morissons-advertising.png]]
 
-Some 📹 [videos](https://www.facebook.com/thechaser/videos/534738730549184) I edited with [The Chaser](https://chaser.com.au/) to promote their show on [Triple M](https://triplem.listnr.com/sydney/), "The Chaser Report". Here's 📹 [another example](https://www.facebook.com/thechaser/videos/2797557310284831). I didn't write them, I swear! 😅
+Some 📹 [videos](https://www.facebook.com/thechaser/videos/534738730549184) I edited with [The Chaser](https://chaser.com.au/) to promote their show on [Triple M](https://triplem.listnr.com/sydney/), "The Chaser Report". Here's 📹 [another example](https://www.facebook.com/thechaser/videos/2797557310284831), and [another](https://fb.watch/xfVo0UGFqa/) if you're a fan. I didn't write them, I swear! 😅
 
 ![[chaser-video-true-crime.png]]
 

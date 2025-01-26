@@ -12,6 +12,7 @@ for:
   - portfolio
 draft: false
 title: My Portfolio
+socialImage: "banner_main.png"
 ---
 
 > [!Hi] Hey there 👋

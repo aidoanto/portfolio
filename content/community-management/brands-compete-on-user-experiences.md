@@ -10,6 +10,18 @@ for:
   - portfolio
 draft: false
 title: 🪄 Service Design (Brands compete on user experiences)
+socialImage: "banner_main.png"
+---
+### Why RØDEBot?
+
+**User frustration**
+
+Support communities are great, but it's annoying when you get help, and halfway through your experience, you get sent to a different support service*.* _Why did I bother typing all that out?_
+
+**Our solution**
+
+We're building _RØDEBot_, a **custom Discord extension (Discord calls these extensions “bots”) to bridge the gap. Soon, you'll be able to open service tickets directly within our server. **This is a feature we’ve never actually seen anyone pull off before.**
+
 ---
 
 ### Immediate benefits
@@ -39,6 +51,7 @@ Part of the diagram for our prototype.
 - If the content does help, they could close their ticket straight away.
 
 The goal of this feature is that we could solve around 20% of queries before they even reach our service team.
+
 
 > [!rode] What did we learn from making this all work?
 > # [[community-management/index|🏠 What I Learned Building the RØDE Community]]

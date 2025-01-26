@@ -10,6 +10,7 @@ for:
   - portfolio
 draft: false
 title: ❔ Further questions for discussion
+socialImage: "banner_main.png"
 ---
 
 ### Idea #2: Affiliate marketing within our community

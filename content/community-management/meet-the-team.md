@@ -10,6 +10,7 @@ for:
   - portfolio
 draft: false
 title: 👋 Meet the team- one other guy
+socialImage: "banner_main.png"
 ---
 
 As we crafted our plan, we knew that there were a few limitations of the Discord platform which needed to be circumvented.

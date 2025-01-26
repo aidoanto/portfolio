@@ -10,6 +10,7 @@ for:
   - portfolio
 draft: false
 title: 🎓 Community Content Strategy (Learn from audience misconceptions)
+socialImage: "banner_main.png"
 ---
 
 Online, the best images go viral because they speak to a shared experience or feeling people _already had,_ just in a new, instantly relatable way.

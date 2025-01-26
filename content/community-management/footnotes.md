@@ -10,6 +10,7 @@ for:
   - portfolio
 draft: false
 title: 📜 Footnotes
+socialImage: "banner_main.png"
 ---
 
 ## What's RAG?

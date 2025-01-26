@@ -11,6 +11,7 @@ for:
   - portfolio
 draft: false
 title: 📄 My CV
+socialImage: "banner_main.png"
 ---
 
 ## **Summary**

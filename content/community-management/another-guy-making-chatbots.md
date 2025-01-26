@@ -10,6 +10,7 @@ for:
   - portfolio
 draft: false
 title: 😎 Using Community Knowledge (Yep, another guy making chatbots)
+socialImage: "banner_main.png"
 ---
 
 ## Communities & AI: you need to create data in order to use it!

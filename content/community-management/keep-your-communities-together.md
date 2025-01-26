@@ -10,6 +10,7 @@ for:
   - portfolio
 draft: false
 title: 🗺️ Creating a Meaningful Community UX (with Discord)
+socialImage: "banner_main.png"
 ---
 Need proof that custom Discord tools are worth it? We were able to bolster our affiliate program by developing a custom add-on:
 

@@ -11,6 +11,7 @@ for:
   - portfolio
 draft: false
 title: 🎙️ What I Learned Building the RØDE Community
+socialImage: "banner_main.png"
 ---
  > [!Hi] Hi! I'm Aidan. 
 > "I wrote this case study to reflect on my first year working on RØDE's online community. I also wrote it to share with my network. There is a lot of stuff here. You don't need to read it all. Promise!"

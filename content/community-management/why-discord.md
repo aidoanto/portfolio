@@ -10,6 +10,7 @@ for:
   - portfolio
 draft: false
 title: 🌐 Why Discord?
+socialImage: "banner_main.png"
 ---
 
 # Why is Discord popular?

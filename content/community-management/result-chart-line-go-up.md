@@ -10,6 +10,7 @@ for:
   - portfolio
 draft: false
 title: 📈 Proving It (Result- chart line go up!)
+socialImage: "banner_main.png"
 ---
 When I started at RØDE in March 2023, we had around **350** members. In the year since then, that number has grown to around **4500**
 

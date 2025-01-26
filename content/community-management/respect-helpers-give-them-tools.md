@@ -10,6 +10,7 @@ for:
   - portfolio
 draft: false
 title: 💜 Community Strategy (Respect helpers, give them tools)
+socialImage: "banner_main.png"
 ---
 
 Communities seem like the secret sauce for new products and media orgs these days. But manage them wrong, [and it can backfire spectacularly](https://www.theverge.com/23873852/unity-new-pricing-model-news-updates)!

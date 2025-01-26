@@ -10,6 +10,7 @@ for:
   - portfolio
 draft: false
 title: 🦜 Innovating Customer Service with AI and Data Analysis at Lorikeet
+socialImage: "banner_main.png"
 ---
 ### Or, how I turned messy customer service data into automated workflows by combining Python, machine learning, and a healthy appreciation for the everyday work of support teams.
 # The Challenge

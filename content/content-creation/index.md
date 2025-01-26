@@ -10,6 +10,7 @@ for:
   - portfolio
 draft: false
 title: "🧠 Optimising impact through content: my work for ReachOut"
+socialImage: "banner_main.png"
 ---
 <iframe title="Ask a therapist: What to do if you’re feeling lonely" src="https://www.youtube.com/embed/AUi5PwPzB_A?start=23&amp;feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 

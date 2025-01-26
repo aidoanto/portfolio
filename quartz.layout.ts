@@ -51,7 +51,10 @@ export const defaultContentPageLayout: PageLayout = {
           "content-creation/index.md": 302,
           "data-analysis": 400,
           "data-analysis/index.md": 401,
-          "my-cv": 500,
+          "podcasting": 450,
+          "podcasting/index.md": 451,
+          "podcasting/selected-examples": 452,
+          "my-cv": 500
         };
 
         let orderA = nameOrderMap[a.file?.slug || a.name] ?? 999999;
@@ -97,7 +100,10 @@ export const defaultListPageLayout: PageLayout = {
           "content-creation/index.md": 302,
           "data-analysis": 400,
           "data-analysis/index.md": 401,
-          "my-cv": 500,
+          "podcasting": 450,
+          "podcasting/index.md": 451,
+          "podcasting/selected-examples": 452,
+          "my-cv": 500
         };
 
         let orderA = nameOrderMap[a.file?.slug || a.name] ?? 999999;
